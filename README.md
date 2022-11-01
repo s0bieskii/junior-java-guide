@@ -187,44 +187,58 @@ mieli łatwiej i sprawniej mogli się uczyć, nie błądząc przy tym po omacku.
 
 Nice to have:
 1. [HTML & CSS](#html--css) 
-2. Good research skills
+2. Ogólna wiedza o komputerach 
+3. Good research skills
 
 
 Jest to roadmapa sugerowana przeze mnie, możesz poszperać w internecie za innymi roadmapami które bardziej będą Ci odpowiadać np:
-- [https://clockworkjava.pl/](https://clockworkjava.pl/2020/09/pragmatyczny-plan-nauki-dla-ekosystemu-java/)
 - [https://roadmap.sh/](https://roadmap.sh/java)
+- [https://clockworkjava.pl/](https://clockworkjava.pl/2020/09/pragmatyczny-plan-nauki-dla-ekosystemu-java/)
 - [https://www.programujodpodstaw.pl/](https://www.programujodpodstaw.pl/roadmapa-programisty/) [płatne]
 - [https://www.javappa.com/](https://www.javappa.com/)
 
 ## Polecane materiały
+### Legenda
+Mimo że staram się wybierać tylko dobre źródła, to znajdziesz tutaj źródła bardziej zalecane oraz mniej zalecane. 
+Przy każdym z nich znajdziesz symbol, który odpowiadający ocenie danego źródła. Na ocenę wpływa jakość materiałów, ilość praktycznych zadań,
+format materiałów.
+
+| Oznaczenie    | Znaczenie                   |
+| ------------- |-----------------------------| 
+| :heart:       | Najbardziej zalecane źródło |
+| :green_heart: | Średnio zalecane źródło     | 
+| :blue_heart:  | Najmniej zalecane źródło    | 
+> **Note**
+> To, że źródło jest najmniej zalecane, nie znaczy, że jest złe! 
+
 ### Angielski 
-Większość internetu jest w języku angielskim w tym potencjalne rozwiązania Twoich przyszłych problemów programistycznych 
-jak i dokumentacja techniczna której prędzej czy później zaczniesz używać. <br/> Także podstawowa znajomość angielskiego będzie
+Większość internetu jest w języku angielskim w tym potencjalne rozwiązania Twoich przyszłych problemów programistycznych, 
+jak i dokumentacja techniczna, której prędzej czy później zaczniesz używać. <br/> Także podstawowa znajomość angielskiego będzie
 niemalże niezbędna, a im lepiej władasz tym językiem, tym więcej drzwi się przed Tobą otworzy. Przez cały czas nauki 
 Javy trzeba szlifować swój język poprzez czytanie artykułów (jeśli nie wszystko rozumiesz to wspomagać się tłumaczem), oglądanie 
 filmów na YouTube w języku angielskim, słuchanie podcastów oraz naukę angielskiego.
 - Polecam zainstalować plugin do przegląradki umożliwiający szybkie tłumaczenie tekstu na stronie internetowej
 - Zamiast znanego Google Translate polecam mniej znany, ale naturalniej tłumaczący [DeepL](https://www.deepl.com/translator)
-- Jeśli chcesz pod szlifować wymowę możesz śmiało wpadać na discord [English](https://discord.gg/english) gdzie spotykają się osoby z całego świata by razem rozwijać swój angielski
+- :heart: Jeśli chcesz pod szlifować wymowę możesz śmiało wpadać na discord [English](https://discord.gg/english) gdzie spotykają się osoby z całego świata by razem rozwijać swój angielski
 - Dobrym startem są również aplikacje mobilne takie jak Duolingo
 - Jeśli chcesz przetłumaczyć formalne dokumenty (np. CV), w których nie ma miejsca na wpadki to warto pamiętać o istnieniu takich stron jak [Turbo Tłumaczenia](https://turbotlumaczenia.pl/)
 
 Im szybciej zaczniesz otaczać się językiem angielskim, tym lepiej dla przyszłego Ciebie;)
 
-
 ### Core
 - **Darmowe**
-  - [Kurs Uniwersytetu Helsinki](https://www.mooc.fi/en/) - certyfikowany kurs z Uniwersytetu Helsinki. Jesteśmy prowadzeni przez kurs za rękę. Polecam ze względu na to, że mocno stawia na praktykę i robimy setki mniejszych lub większych zadań, których poprawność jest sprawdzana przez testy automatyczne.
-  - [JetBrains Adacemy](https://hyperskill.org/tracks?category=2) - darmowy kurs od JestBrainsów (tylko przy rejestracji z reflinka ale do znalezienia w internecie)  
-  - [Udemy Java for Complete Begginers](https://www.udemy.com/course/java-tutorial/) - kurs video dla totalnie początkujących  na Udemy
-  - [JavaStart](https://javastart.pl/baza-wiedzy/darmowy-kurs-java) - kurs Javy od podstaw w języku polskim
-  - [CodeAcademy](https://www.codecademy.com/catalog/language/java) - interaktywny kurs Javy, dotykający totalnych podstaw. Dzięki niemu można w łatwy sposób liznąć programowania, nawet jeśli masz umysł humanistyczny.
-  - [PJWSTK](http://edu.pjwstk.edu.pl/wyklady/) - mimo że dość stare materiały to treściwe i udostępnione za darmo przez Polsko Japońską Akademię Technik Komputerowych. Znajdziesz tutaj nie tylko kurs Javy ale sporo innych wartościowych materiałów
+  - :heart: [Kurs Uniwersytetu Helsinki](https://www.mooc.fi/en/) - certyfikowany kurs z Uniwersytetu Helsinki. Jesteśmy prowadzeni przez kurs za rękę. Polecam ze względu na to, że mocno stawia na praktykę i robimy setki mniejszych lub większych zadań, których poprawność jest sprawdzana przez testy automatyczne.
+  - :heart: [JetBrains Adacemy](https://hyperskill.org/tracks?category=2) - darmowy kurs od JestBrainsów (tylko przy rejestracji z reflinka ale do znalezienia w internecie)  
+  - :blue_heart: [Udemy Java for Complete Begginers](https://www.udemy.com/course/java-tutorial/) - kurs video dla totalnie początkujących  na Udemy
+  - :green_heart: [JavaStart](https://javastart.pl/baza-wiedzy/darmowy-kurs-java) - kurs Javy od podstaw w języku polskim
+  - :blue_heart: [CodeAcademy](https://www.codecademy.com/catalog/language/java) - interaktywny kurs Javy, dotykający totalnych podstaw. Dzięki niemu można w łatwy sposób liznąć programowania, nawet jeśli masz umysł humanistyczny.
+  - :green_heart: [PJWSTK](http://edu.pjwstk.edu.pl/wyklady/) - mimo że dość stare materiały to treściwe i udostępnione za darmo przez Polsko Japońską Akademię Technik Komputerowych. Znajdziesz tutaj nie tylko kurs Javy ale sporo innych wartościowych materiałów
 
 - **Płatne**
     - Core Javy
 
 ### HTML & CSS
+
 ### Maven & Gradle
 
 ### Internet & HTTP
