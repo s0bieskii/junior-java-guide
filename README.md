@@ -3,8 +3,26 @@
 ## Contents
 - [Start](#słowo-na-start)
 - [Moja droga nauki](#moja-droga-nauki)
-    - [Co bym poprawił](#co-bym-poprawił)
+    - [Co mogłem zrobić lepiej?](#co-mogem-zrobi-lepiej)
+    - [Jak się uczyć](#jak-si-uczy)
 - [Roadmap](#roadmapa)
+- [Polecane materiały](#polecane-materiay)
+ - [Core](#core)
+ - [Maven & Gradle](#maven--gradle)
+ - [Internet & protokół HTTP](#internet--http)
+ - [SQL/NoSQL Databases](#sql--bazydanych)
+ - [API & Rest API](#api--rest-api)
+ - [GIT & kontrola wersji](#git--kontrola-wersji)
+ - [Spring/Springboot](#spring)
+ - [ORM](#orm)
+ - [Testy](#testy)
+ - [Clean Code & paradygmaty](#cleancode--paradydmaty)
+ - [Wzorce projektowe](#wzorce-projektowe)
+ - [Logowanie w aplikacji](#logowanie-w-aplikacji)
+ - [Docker](#docker) [podstawy]
+ - [Linux](#linux) [podstawy]
+ - [Mikroserwisy](#mikroserwisy) [nie obowiązkowo]
+ - [Message Broker](#message-broker) (RabbitMQ/Kafka) [nie obowiązkowo]
 
 ## Słowo na start
 Niniejsza ściąga jest spisem moich porad i obserwacji z drogi
@@ -80,13 +98,36 @@ o prace podobnych do poprzedniej, oraz 2 lub 3 oferty stażu, które od razu odr
 Z końcem kwietnia 4 z 6 firm, z którymi rozmawiałem chciały mnie zatrudnić. <br />
 Tak o to po 14 miesiącach nauki (odejmując przerwę, którą miałem) zaczynam swoją przygodę w IT.
 
-## Co bym poprawił
-Podczas swojej nauki dużo czasu zmarnowałem na poszukiwanie dobrych źródeł, materiałów oraz kręceniu się w kółko nie wiedząc czego
+## Ile czasu potrzeba, żeby dostać pracę?
+Odpowiedź to: TO ZALEŻY 
+- Od tego ile średnio godzin możesz się uczyć
+- Od chłonności Twojego umysłu, to co jeden zrozumie w godzinę drugi zrozumie po czterech
+- Od umiejętności, które już posiadasz 
+- Od drogi, którą wybierzesz podczas nauki
+- Od poziomu motywacji
+
+W moim przypadku trwało to rok i osiem miesięcy, od zera do znalezienia pracy, w tym pięć i pół miesiąca przerwy,
+także finalnie na naukę zeszło mi: ROK I TRZY MIESIĄCE <br />
+Ile średnio czasu ja się uczyłem? 
+    Gdy pracowałem: średnio około dwie i pół godziny 2/3 razy w tygodniu, a w weekendy (sobota/niedziela) ok 4/5 godzin dziennie.
+    Po rzuceniu pracy: siedziałem przynajmniej 5 godzin, a bywały dni po 10 (choć mało efektywne)
+
+## Co mogłem zrobić lepiej?
+Podczas swojej nauki dużo czasu zmarnowałem na poszukiwanie dobrych źródeł, materiałów oraz kręceniu się w kółko nie wiedząc, czego
 powinienem się uczyć następnie. Dlatego też postanowiłem zrobić ściągę dla osób, które mają zamiar przebyć tę samą drogę, aby
-mieli łatwiej i nie musieli błądzić po omacku podczas swojej nauki.
+mieli łatwiej i sprawniej mogli się uczyć, nie błądząc przy tym po omacku. <br />
+Błędne jest też przekonanie, że im więcej godzin spędzonych na nauce tym lepiej, ku mojemu zaskoczeniu powiedzenie "less is more" jest bardzo prawdziwe.
+Bywało tak, że podczas nauki trafiałem na jakiś problem i za wszelką cenę próbowałem go rozwikłać, nie odrywając się od komputera, spędzałem przy nim po 10 godzin dziennie, szukając odpowiedzi.
+Niestety były to bardzo nieefektywne godziny ze względu na moje zmęczenie i frustrację, czego dowodem jest to, że wystarczyło wrócić wyspanym i ze świeżą głową do tego samego problemu,
+aby nagle wszystko słało się jasne. <br />
+Nie oznacza to, jednak że można się opierdalać, wręcz przeciwnie trzeba zapierdalać i spędzić sporo godzin na systematycznej nauce. Trzeba jednak pamiętać, aby była to efektywna nauka.
+
+## Jak się uczyć?
+Podczas swojej nauki dużo czasu zmarnowałem na poszukiwanie dobrych źródeł, materiałów oraz kręceniu się w kółko nie wiedząc, czego
+powinienem się uczyć następnie. Dlatego też postanowiłem zrobić ściągę dla osób, które mają zamiar przebyć tę samą drogę, aby
+mieli łatwiej i sprawniej mogli się uczyć, nie błądząc przy tym po omacku.
 
 ## Roadmapa
-Przed startem nauki trzeba przygotować środowisko, na którym będziemy pracować, zainstalować Javę oraz IDE.
 
 0. [Angielski](#angielski)
 1. [Core](#core)
@@ -110,8 +151,8 @@ Przed startem nauki trzeba przygotować środowisko, na którym będziemy pracow
     - Garbage collector
     - JavaFX [nie obowiązkowo]
 2. [Maven & Gradle](#maven--gradle)
-3. [Internet & protokół HTTP](#internet--protok-http)
-4. [SQL/NoSQL & databases](#sql--bazydanych)
+3. [Internet & protokół HTTP](#internet--http)
+4. [SQL/NoSQL Databases](#sql--bazydanych)
     - MySQL
     - Postgres
     - H2Database
@@ -145,7 +186,7 @@ Przed startem nauki trzeba przygotować środowisko, na którym będziemy pracow
 16. [Message Broker](#message-broker) (RabbitMQ/Kafka) [nie obowiązkowo]
 
 Nice to have:
-1. HTML & CSS
+1. [HTML & CSS](#html--css) 
 2. Good research skills
 
 
@@ -159,16 +200,21 @@ Jest to roadmapa sugerowana przeze mnie, możesz poszperać w internecie za inny
 ### Angielski 
 Większość internetu jest w języku angielskim w tym potencjalne rozwiązania Twoich przyszłych problemów programistycznych 
 jak i dokumentacja techniczna której prędzej czy później zaczniesz używać. <br/> Także podstawowa znajomość angielskiego będzie
-niemalże niezbędna, a im lepiej władasz tym językiem tym więcej drzwi się przed Toba otowrzy. Polecam przez cały czas nauki 
-Javy trzeba szlifować swój język poprzez czytanie artukułów (jeśli nie wszystko rozumiesz to wspomagąć się tłumaczem), oglądanie 
-filmów na YouTube w języku angielskim oraz naukę angielskiego.
+niemalże niezbędna, a im lepiej władasz tym językiem, tym więcej drzwi się przed Tobą otworzy. Przez cały czas nauki 
+Javy trzeba szlifować swój język poprzez czytanie artykułów (jeśli nie wszystko rozumiesz to wspomagać się tłumaczem), oglądanie 
+filmów na YouTube w języku angielskim, słuchanie podcastów oraz naukę angielskiego.
 - Polecam zainstalować plugin do przegląradki umożliwiający szybkie tłumaczenie tekstu na stronie internetowej
-- Zamiast znanego Google Translate polecam mniej znany [DeepL](https://www.deepl.com/translator)
+- Zamiast znanego Google Translate polecam mniej znany, ale naturalniej tłumaczący [DeepL](https://www.deepl.com/translator)
 - Jeśli chcesz pod szlifować wymowę możesz śmiało wpadać na discord [English](https://discord.gg/english) gdzie spotykają się osoby z całego świata by razem rozwijać swój angielski
+- Dobrym startem są również aplikacje mobilne takie jak Duolingo
+- Jeśli chcesz przetłumaczyć formalne dokumenty (np. CV), w których nie ma miejsca na wpadki to warto pamiętać o istnieniu takich stron jak [Turbo Tłumaczenia](https://turbotlumaczenia.pl/)
+
+Im szybciej zaczniesz otaczać się językiem angielskim, tym lepiej dla przyszłego Ciebie;)
+
 
 ### Core
 - **Darmowe**
-  - [Kurs Uniwersytetu Helsinki](https://www.mooc.fi/en/) - certyfikowany kurs z uniwersytetu Helsinki. Jesteśmy prowadzeni przez kurs za rękę. Polecam ze względu na to, że mocno stawia na praktykę oraz ma testy automatyczne sprawdzające poprawność naszych zadań.
+  - [Kurs Uniwersytetu Helsinki](https://www.mooc.fi/en/) - certyfikowany kurs z Uniwersytetu Helsinki. Jesteśmy prowadzeni przez kurs za rękę. Polecam ze względu na to, że mocno stawia na praktykę i robimy setki mniejszych lub większych zadań, których poprawność jest sprawdzana przez testy automatyczne.
   - [JetBrains Adacemy](https://hyperskill.org/tracks?category=2) - darmowy kurs od JestBrainsów (tylko przy rejestracji z reflinka ale do znalezienia w internecie)  
   - [Udemy Java for Complete Begginers](https://www.udemy.com/course/java-tutorial/) - kurs video dla totalnie początkujących  na Udemy
   - [JavaStart](https://javastart.pl/baza-wiedzy/darmowy-kurs-java) - kurs Javy od podstaw w języku polskim
@@ -178,10 +224,10 @@ filmów na YouTube w języku angielskim oraz naukę angielskiego.
 - **Płatne**
     - Core Javy
 
-
+### HTML & CSS
 ### Maven & Gradle
 
-### Internet & protokół HTTP
+### Internet & HTTP
 
 ### SQL & bazydanych
 
@@ -212,6 +258,7 @@ filmów na YouTube w języku angielskim oraz naukę angielskiego.
 ## Polecane źródła
 - https://www.baeldung.com/
 - https://refactoring.guru/
+- https://www.youtube.com/c/Zaprogramuj%C5%BBycie
 - https://javappa.com/
 - https://nullpointerexception.pl/blog/
 - http://edu.pjwstk.edu.pl/wyklady/
