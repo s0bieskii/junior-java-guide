@@ -7,23 +7,23 @@
     - [Jak się uczyć](#jak-si-uczy)
 - [Roadmap](#roadmapa)
 - [Polecane materiały](#polecane-materiay)
- - [Core](#core)
- - [Maven & Gradle](#maven--gradle)
- - [Internet & protokół HTTP](#internet--http)
- - [SQL/NoSQL Databases](#sql--bazydanych)
- - [API & Rest API](#api--rest-api)
- - [GIT & kontrola wersji](#git--kontrola-wersji)
- - [Spring/Springboot](#spring)
- - [ORM](#orm)
- - [Testy](#testy)
- - [Clean Code & paradygmaty](#cleancode--paradydmaty)
- - [Wzorce projektowe](#wzorce-projektowe)
- - [Logowanie w aplikacji](#logowanie-w-aplikacji)
- - [Docker](#docker) [podstawy]
- - [Linux](#linux) [podstawy]
- - [Mikroserwisy](#mikroserwisy) [nie obowiązkowo]
- - [Message Broker](#message-broker) (RabbitMQ/Kafka) [nie obowiązkowo]
-
+  - [Core](#core)
+  - [Maven & Gradle](#maven--gradle)
+  - [Internet & protokół HTTP](#internet--http)
+  - [SQL/NoSQL Databases](#sql--bazydanych)
+  - [API & Rest API](#api--rest-api)
+  - [GIT & kontrola wersji](#git--kontrola-wersji)
+  - [Spring/Springboot](#spring)
+  - [ORM](#orm)
+  - [Testy](#testy)
+  - [Clean Code & paradygmaty](#cleancode--paradydmaty)
+  - [Wzorce projektowe](#wzorce-projektowe)
+  - [Logowanie w aplikacji](#logowanie-w-aplikacji)
+  - [Docker](#docker)
+  - [Linux](#linux)
+  - [Mikroserwisy](#mikroserwisy)
+  - [Message Broker](#message-broker)
+    
 ## Słowo na start
 Niniejsza ściąga jest spisem moich porad i obserwacji z drogi
 przebranżowienia na Junior Java Developera. Ściąga ta nie jest jedną jedyną w 100%
