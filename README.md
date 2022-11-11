@@ -168,10 +168,23 @@ Im szybciej zaczniesz otaczać się językiem angielskim, tym lepiej dla przysz�
   - :heart: [HackerRank SQL](https://www.hackerrank.com/domains/sql) - zadania z SQL w interaktywnym wydaniu. Podzielone na trudność, oraz tematy.
   - :green_heart: [SQL Kata](https://www.codewars.com/kata/search/sql?q=SQL&beta=false&order_by=sort_date%20desc) - są to zestaawy mini zadań praktycznych przygotowanych przez innych userów, podzielonych na trudność oraz tematy. Tak zwane **katas** można znaleźć 
   - :blue_heart: [Kurs SQL z Kanał o Wszystkim](https://www.youtube.com/watch?v=BcZmEaX8u3w&list=PL6aekdNhY7DA1wcv-k2MtZxasDeGlre57) - spoko kurs SQL, lecz nie porusza tylu zagadnień i tematów jak poprzednie kursy
+  - :heart: [Spring Boot Java H2 Database](https://www.youtube.com/watch?v=8QBJMxyXIqc) - praktyczny tutorial, pokazujacy config H2 Database z naszym projektem
+  - :green_heart: [Baza danych H2](https://www.baeldung.com/spring-boot-h2-database) - jest to lekki silnik bazy danych. który doskonale sprawdza się do mini projektów Springowych.
 
 ### API & REST API
-
+- **Darmowe**
+  - :heart: [Wszystko o REST API w Javie](https://www.youtube.com/watch?v=C1bC134GvQ8) - bardzo dobrze przedstawiona wiedza o Rest API od Mateusza Dąbrowskiego
+  - :heart: [15 zasad przy budowie Rest API](https://www.sztukakodu.pl/15-zasad-przy-budowie-rest-api-za-ktore-deweloperzy-cie-pokochaja) - zwięźle i na temat przedstawiona konwencja tworzenia Rest API
+  - :heart: [API tutorial](https://www.youtube.com/watch?v=P9b8-BrWdYs)
+  - :green_heart: [Tworzenie Rest API w SpringBoot](https://www.youtube.com/watch?v=P9b8-BrWdYs) - w 60 minut Kamil Brzeziński przeprowadzi nas przez różne tematy i pokaże jak tworzy się Rest API w SpringBoot. Warto sobie obejrzeć nawet jak nie rozumiemy pewnych zagadnień, żeby mieć wyobrażenie, co robi API i do czego się je wykorzystuje.
+  
 ### GIT & kontrola wersji
+- **Darmowe**
+  - :heart: [Kurs Gita w praktyce](https://www.youtube.com/watch?v=tvHVafvw16Y&list=PLj-pbEqbjo6AKsJ8oE2pvIqsb15mxdrxs) - kurs od Łysego z IT 
+  - :heart: [Git i GitHub w 60 minut](https://www.youtube.com/watch?v=Ebe9D5zRkvM)
+  - :heart: [Git & GitHub Tutorial for Beginners](https://www.youtube.com/watch?v=3fUbBnN_H2c)
+  - :heart: [OhShitGit](https://ohshitgit.com/pl) - przy nauce Gita na pewno zdarzą Ci się fuck upy, które chciałbyś cofnąć, wtedy wchodzi on cały na biało: OhShietGit.com
+  - :heart: [Git Katas](https://github.com/eficode-academy/git-katas) - w nauce najważniejsza jest praktyka, dlatego tutaj znajdziesz zestaw mini zadań do praktycznej nauki Gita!
 
 ### Spring
 
