@@ -1,7 +1,9 @@
 - [Moja droga nauki](my-story.md)
-    - [Co mogłem zrobić lepiej?](#co-mogem-zrobi-lepiej)
-    - [Jak się uczyć](#jak-si-uczy)
-    - 
+  - [Ile czasu potrzeba żeby dostać pracę?](#ile-czasu-potrzeba-eby-dosta-prac)
+  - [Co mogłem zrobić lepiej?](#co-mogem-zrobi-lepiej)
+  - [Jak się uczyć](#jak-si-uczy)
+  
+  
 - ## Moja droga nauki
 $$\textcolor{#1589F0}{\text{[15.08.2020]}}$$
 Decyzja o podjęciu nauki, pierwsze poszukiwania materiałów, trafiam na
