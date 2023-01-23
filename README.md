@@ -88,7 +88,7 @@ materiały.
 16. [Message Broker](#message-broker) (RabbitMQ/Kafka) [nie obowiązkowo]
 
 Nice to have:
-1. [HTML & CSS](#html--css) 
+1. [HTML & CSS](https://github.com/s0bieskii/junior-java-guide.git) 
 2. Ogólna wiedza o komputerach 
 3. Good research skills
 
@@ -122,6 +122,7 @@ filmów na YouTube w języku angielskim, słuchanie podcastów oraz naukę angie
 - Polecam zainstalować plugin do przegląradki umożliwiający szybkie tłumaczenie tekstu na stronie internetowej
 - Zamiast znanego Google Translate polecam mniej znany, ale naturalniej tłumaczący [DeepL](https://www.deepl.com/translator)
 - :heart: Jeśli chcesz pod szlifować wymowę możesz śmiało wpadać na discord [English](https://discord.gg/english) gdzie spotykają się osoby z całego świata by razem rozwijać swój angielski
+- :heart: Kolejnym miejscem w którym możesz pogadać po angielsku (i nie tylko) jest [Free4Talk](https://www.free4talk.com)
 - Dobrym startem są również aplikacje mobilne takie jak Duolingo
 - Jeśli chcesz przetłumaczyć formalne dokumenty (np. CV), w których nie ma miejsca na wpadki to warto pamiętać o istnieniu takich stron jak [Turbo Tłumaczenia](https://turbotlumaczenia.pl/)
 
@@ -130,13 +131,15 @@ Im szybciej zaczniesz otaczać się językiem angielskim, tym lepiej dla przysz�
 ### Core
 - **Darmowe**
   - :heart: [Kurs Uniwersytetu Helsinki](https://www.mooc.fi/en/) - certyfikowany kurs z Uniwersytetu Helsinki. Jesteśmy prowadzeni przez kurs za rękę. Polecam ze względu na to, że mocno stawia na praktykę i robimy setki mniejszych lub większych zadań, których poprawność jest sprawdzana przez testy automatyczne.
-  - :heart: [JetBrains Adacemy](https://hyperskill.org/tracks?category=2) - darmowy kurs od JestBrainsów (tylko przy rejestracji z reflinka np tego: [LINK](https://hyperskill.org/join/ad5ebfbb6))  
+  - :heart: [JetBrains Adacemy](https://hyperskill.org/tracks?category=2) - darmowy kurs od JestBrainsów (tylko przy rejestracji z reflinka np tego: [LINK](https://hyperskill.org/join/ad5ebfbb6)) 
+  - :heart: [JavaStart](https://javastart.pl/baza-wiedzy/darmowy-kurs-java) - kurs Javy od podstaw w języku polskim
   - :blue_heart: [Udemy Java for Complete Begginers](https://www.udemy.com/course/java-tutorial/) - kurs video dla totalnie początkujących  na Udemy
-  - :green_heart: [JavaStart](https://javastart.pl/baza-wiedzy/darmowy-kurs-java) - kurs Javy od podstaw w języku polskim
   - :blue_heart: [CodeAcademy](https://www.codecademy.com/catalog/language/java) - interaktywny kurs Javy, dotykający totalnych podstaw. Dzięki niemu można w łatwy sposób liznąć programowania, nawet jeśli masz umysł humanistyczny.
   - :green_heart: [PJWSTK](http://edu.pjwstk.edu.pl/wyklady/) - mimo że dość stare materiały to treściwe i udostępnione za darmo przez Polsko Japońską Akademię Technik Komputerowych. Znajdziesz tutaj nie tylko kurs Javy ale sporo innych wartościowych materiałów
+  - :green_heart: [Kurs Java dla początkujących od NullPointException](https://nullpointerexception.pl/kurs-java-dla-poczatkujacych/)
 
 - **Płatne**
+  - :green_heart: [Java from Zero to First Job na Udemy](https://www.udemy.com/course/java-development-for-beginners-learnit/)
   - :heart: [JavaStart](https://javastart.pl/kurs/java) - rozszerzony kurs od JavaStart 
   - :heart: [JetBrains Adacemy](https://hyperskill.org/tracks?category=2) - to samo co za darmo z reflinka wyżej, ale jeśli nie zdążyłeś w 3-miesięczny okres próbny, to możesz wykupić subskrypcję. Płacisz za dostęp do całej platformy i wszystkich kursó, dlatego jeśli szybko będziesz przerabiał materiał, to cena końcowa nie wyjdzie taka zła.
 
@@ -149,7 +152,7 @@ Im szybciej zaczniesz otaczać się językiem angielskim, tym lepiej dla przysz�
 
 ### Maven & Gradle
 - **Darmowe**
-  - :heart: [Apache Maven dla początkujących](https://www.youtube.com/watch?v=BBHQGNkOb5w&list=PL6aekdNhY7DCmEzy303ZDo31d9uSYDCTt)
+  - :heart: [Apache Maven dla początkujących](https://www.youtube.com/watch?v=l0i9ZsN1lmM)
   - :green_heart: [Maven i tajemnica pliku pom.xml](https://kobietydokodu.pl/7-maven-i-tajemnice-pliku-pom-xml/)
   - :green_heart: [Maven Baeldung](https://www.baeldung.com/maven)
 
@@ -163,6 +166,7 @@ Im szybciej zaczniesz otaczać się językiem angielskim, tym lepiej dla przysz�
 
 ### SQL & bazydanych
 - **Darmowe**
+  - :heart: [Kurs MySql Pasja Informatyki](https://www.youtube.com/watch?v=99JAI24Zd24)
   - :heart: [Learn SQL in 60 minutes](https://www.youtube.com/watch?v=p3qvj9hO_Bo)
   - :heart: [Kurs SQL - podstawy](https://www.youtube.com/watch?v=15q9R1lTqvI) - skoncentrowany, praktyczny poradnik o SQL, niestety brak jest zadań praktycznych, ale można poćwiczyć np. na Hackerrank lub na tzw. katas (linki poniżej)
   - :heart: [HackerRank SQL](https://www.hackerrank.com/domains/sql) - zadania z SQL w interaktywnym wydaniu. Podzielone na trudność, oraz tematy.
@@ -187,28 +191,51 @@ Im szybciej zaczniesz otaczać się językiem angielskim, tym lepiej dla przysz�
   - :heart: [Git Katas](https://github.com/eficode-academy/git-katas) - w nauce najważniejsza jest praktyka, dlatego tutaj znajdziesz zestaw mini zadań do praktycznej nauki Gita!
 
 ### Spring
+- **Płatne**
+  - :heart" [Kurs Spring Java Start](https://javastart.pl/kurs/spring) - kompleksowy kurs Spring z zadaniami i dużymi projektami. Kurs jest płatny, ale naprawdę warto. Przy zakupie wiekszego pakietu mamy wsparcie na forum.
+  - :blue_heart: [Java - Spring Framework od Mateusz Chrzonstowski](https://www.udemy.com/course/spring-pl/) - kurs na Udemy gdzie Mateusz przeprowadza nas przez różne tematy związane z Springiem. Nie jest to idealny kurs, ale sporo z niego wyciągniemy.
+- **Darmowe**
+  - :green_heart: [Kurs Spring Boot Mateusz Dąbrowski](https://www.youtube.com/watch?v=G_AEiZqk_HM&list=PLLIGVl2WVN6ugud2cc3OShwWoTt65jzSL)
+  - :green_heart: [Spring Boot Tutorial 2022 Amigos Code](https://www.youtube.com/watch?v=9SGDpanrc8U)
+  - :blue_heart: [Javappa kurs spirng w praktyce](https://www.javappa.com/kurs-spring/)
 
 ### ORM
+- :heart: [Kurs JPA i Hibernate](https://www.youtube.com/watch?v=yPT8n1IKyGI&list=PLU2dl_1LV_SQWZI2R_RSEeYm1tfueszOc&index=1) - jest to video kurs dt. Hibernate. Tłumaczy czym w ogóle jest Hibernate i przeprowadza nas przez teorię oraz zahacza o praktykę. O Hibernate nauczysz się również z kursów Spring, często jest to omawiane jako nieodłączna część kursów Spring.
+- :heart: [ORM, JPA, Hibernate, Spring Data JPA - o co w tym wszystkim chodzi?](https://www.youtube.com/watch?v=jjOriEZsrGk) - szybkie i skondensowane omówienie czym ORM i Hibernate jest.
+- :green_heart: [Kurs Hibernate od NullPointException](https://kursy.nullpointerexception.pl/hibernate/) - 
 
 ### Testy
+- :heart: [Testy jednostkowe w Javie - Istota testów jednostkowych, podstawy JUnit](https://www.youtube.com/watch?v=BijU1qqSH80)
+- :heart: [Software Testing Tutorial - Learn Unit Testing and Integration Testing](https://www.youtube.com/watch?v=Geq60OVyBPg)
 
-### CleanCode & pWEaradydmaty 
+### CleanCode & paradygmaty
+- [Clean Code - Uncle Bob lesson 1](https://www.youtube.com/watch?v=7EmboKQH8lM)
+- [SOLID, KISS i DRY](https://devszczepaniak.pl/solid-kiss-i-dry/)
+- [4 zasady, które uratują Ci życie!](https://www.youtube.com/watch?v=767mcSXdTBo)
 
 ### Wzorce projektowe
-
-### Logowanie w aplikacji 
+- :heart: [Refactoring Guru](https://refactoring.guru/design-patterns/catalog) - najpopularniejsze wrozrce projektowe od Refactoring Guru, jasno opisane wraz z praktycznymi przykładami. Więcej wzorców znajdziesz w książce od tego samego autora.
 
 ### Docker
 - *Darmowe*
   - :heart: [Kurs Dockera od Zaprogramuj Życie](https://www.youtube.com/watch?v=Bb9O_TFSZUU&list=PLj-pbEqbjo6ABYxLDCKqvo3e0flutpbCy)
+  - :green_heart: [Docker Tutorial for Beginners ](https://www.youtube.com/watch?v=p28piYY_wv8)
+  - :green_heart: [Kurs Dockera od Programator](https://www.youtube.com/watch?v=wFcAa28kjVQ&list=PLkcy-k498-V5AmftzfqinpMF2LFqSHK5n)
 
 ### Linux 
+Tutaj polecam sobie postawić Linuxa na VirtualBox do zabawy i nauki w praktyce. Innym sposobem jest zainstalowanie WSL pod Winodws i zabawa z Linuxem przez terminal. 
+Poniższe filmy mogą pomóc w zrobieniu pierwszych kroków w świecie Linuxa.
+- :heart: [Podstawy pracy w terminalu w systemie Linux](https://www.youtube.com/watch?v=hTNEVYcG1kc)
+- :blue_heart: [20 poleceń terminala UNIX – podstawowe komendy Linux, które trzeba znać](https://www.flynerd.pl/2018/06/20-polecen-terminala-unix-podstawowe-komendy-linux-ktore-trzeba-znac.html)
 
 ### Mikroserwisy
+- :heart: [Microservices explained - the What, Why and How?](https://www.youtube.com/watch?v=rv4LlmLmVWk) - video omawiające czym są mikroserwisy.
 
 ### Message Broker
+- [RabbitMQ Tutorial - Message Queues and Distributed Systems](https://www.youtube.com/watch?v=nFxjaVmFj5E)
 
 ## Polecane źródła
+- https://4programmers.net/Forum
 - https://www.baeldung.com/
 - https://refactoring.guru/
 - https://www.youtube.com/c/Zaprogramuj%C5%BBycie
@@ -218,17 +245,22 @@ Im szybciej zaczniesz otaczać się językiem angielskim, tym lepiej dla przysz�
 - https://kobietydokodu.pl/tag/java/
 
 ### Inne
+- https://beginnersbook.com/
+- https://www.codewars.com/
 - https://open.agh.edu.pl/kategorie/informatyka/?orderby=popularity
 - https://www.pja.edu.pl/biblioteka/repozytoria
 - https://ocw.mit.edu/search/?d=Electrical%20Engineering%20and%20Computer%20Science
 - https://academicearth.org/computer-science/
 - Kanały JUG na YouTube
+- [Kanał Devoxx](https://www.youtube.com/@DevoxxForever/videos)
+= [Wrocławskie Sparingi Informatyczne](https://www.youtube.com/@wrocawskiesparingiinformat9221/videos)
+- [Kurs Java od podstaw](https://kursjava.com/spis-tresci/)
 
 ## Polecane programy
 - **[InteliJ IDEA](https://www.jetbrains.com/idea/)** - IDE idealne do Javy
 - **[Postman](https://www.postman.com/)** - narzędzie do wysyłania requestów HTTP oraz testowania API
 - **[Ditto Clipboard](https://apps.microsoft.com/store/detail/ditto-clipboard/9NBLGGH3ZBJQ?hl=pl-pl&gl=pl)** - pozwala przeglądać historię skopiowanych treści oraz zarządzać nimi.
 - **[ConEmu](https://conemu.github.io/)** - wygodna nakładka na terminal, pozwalająca na wygodne korzystanie oraz personalizowanie konsoli
--  **[Grammarly](https://www.grammarly.com/)** - plugin automatycznie sprawdzający poprawność tekstu wraz z sugerowaniem poprawek.
+- **[Grammarly](https://www.grammarly.com/)** - plugin automatycznie sprawdzający poprawność tekstu wraz z sugerowaniem poprawek.
 
 
