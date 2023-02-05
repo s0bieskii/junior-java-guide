@@ -1,8 +1,8 @@
 # Roadmapa i polecane materiały
 
 ## Contents
-- [Roadmap](#roadmapa)                                 - [Roadmap](#roadmapa)
-- [Polecane materiały](#polecane-materiay)
+- [Roadmap](#roadmapa)
+- [Polecane materiały](#polecane-materiały)
     - [Core](#core)
     - [Maven & Gradle](#maven--gradle)
     - [Internet & protokół HTTP](#internet--http)
@@ -211,8 +211,10 @@ Im szybciej zaczniesz otaczać się językiem angielskim, tym lepiej dla przysz�
 ### Wzorce projektowe
 - :heart: [Refactoring Guru](https://refactoring.guru/design-patterns/catalog) - najpopularniejsze wrozrce projektowe od Refactoring Guru, jasno opisane wraz z praktycznymi przykładami. Więcej wzorców znajdziesz w książce od tego samego autora.
 ### Logowanie w aplikacji
-- [Praktyczna Java. Biblioteki do logowania](https://kobietydokodu.pl/praktyczna-java-biblioteki-do-logowania/)
-- [Softwareskill logowanie Java podstawy](https://softwareskill.pl/logowanie-java-podstawy) - wprowadzenie do logów w Javie ;)
+- :heart: [Softwareskill logowanie Java podstawy](https://softwareskill.pl/logowanie-java-podstawy) - wprowadzenie do logów w Javie ;)
+- :heart: [Java Code Geeks - The Case Against Logging](https://www.javacodegeeks.com/2022/06/the-case-against-logging.html)
+- :green_heart: [Praktyczna Java. Biblioteki do logowania](https://kobietydokodu.pl/praktyczna-java-biblioteki-do-logowania/)
+
 ### Docker
 - :heart: [Kurs Dockera od Zaprogramuj Życie](https://www.youtube.com/watch?v=Bb9O_TFSZUU&list=PLj-pbEqbjo6ABYxLDCKqvo3e0flutpbCy)
 - :green_heart: [Docker Tutorial for Beginners ](https://www.youtube.com/watch?v=p28piYY_wv8)
@@ -225,6 +227,7 @@ Poniższe filmy mogą pomóc w zrobieniu pierwszych kroków w świecie Linuxa.
 - :blue_heart: [20 poleceń terminala UNIX – podstawowe komendy Linux, które trzeba znać](https://www.flynerd.pl/2018/06/20-polecen-terminala-unix-podstawowe-komendy-linux-ktore-trzeba-znac.html)
 
 ### Mikroserwisy
+- :heart: [Microservices Using Spring Boot and Spring Cloud #1](https://www.youtube.com/watch?v=p485kUNpPvE&list=PLwvrYc43l1Mwqpf9i-1B1gXfMeHOm6DeY&index=1)
 - :heart: [Microservices explained - the What, Why and How?](https://www.youtube.com/watch?v=rv4LlmLmVWk) - video omawiające czym są mikroserwisy.
 - :heart: [Microservices.io](https://microservices.io/) - kompedium wiedzy na temat mikroserwisów
 

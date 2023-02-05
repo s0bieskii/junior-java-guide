@@ -25,6 +25,7 @@
     - Mikroserwisy
     - Message Broker
 - [Przykładowe pytania rekrutacyjne](interviewquestions.md) 
+- [Przykładowe zadania rekrutacyjne](task.md)
 
 ## Słowo na start
 Niniejsza ściąga jest spisem moich porad i obserwacji z drogi
@@ -43,6 +44,7 @@ materiały.
 - http://edu.pjwstk.edu.pl/wyklady/
 - https://kobietydokodu.pl/tag/java/
 - https://patoarchitekci.io/
+- https://blog.jdriven.com/
 - Kanały JUG na YouTube
 
 ## Polecane programy
@@ -51,6 +53,7 @@ materiały.
 - **[Ditto Clipboard](https://apps.microsoft.com/store/detail/ditto-clipboard/9NBLGGH3ZBJQ?hl=pl-pl&gl=pl)** - pozwala przeglądać historię skopiowanych treści oraz zarządzać nimi.
 - **[ConEmu](https://conemu.github.io/)** - wygodna nakładka na terminal, pozwalająca na wygodne korzystanie oraz personalizowanie konsoli
 - **[Grammarly](https://www.grammarly.com/)** - plugin automatycznie sprawdzający poprawność tekstu wraz z sugerowaniem poprawek.
+- **[PowerToys](https://github.com/microsoft/PowerToys/releases)** - jest potężny program od Microsoft pozwalający na podział ekranu, zabijanie procesów, które blokują plik, masową zmianę nazw plików i wiele innych! 
 
 ### Inne
 - https://beginnersbook.com/
