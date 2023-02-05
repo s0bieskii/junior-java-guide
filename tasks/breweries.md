@@ -5,7 +5,7 @@ Zadanie to jest na Junior++
 Przy tej rekrutacji dostałem dwa zadania to poniżej oraz [TO](async.md) i miałem sobie wybrać, które chcę zrobić, zrobiłem oba.
 Moje rozwiązanie tego zadania znajdziesz [TUTAJ](https://github.com/s0bieskii/breweries)
 
-Pliki potrzebne do zadania: [breweries-recruitment-task.zip](https://github.com/s0bieskii/junior-java-guide/src/breweries-recruitment-task.zip)
+Pliki potrzebne do zadania: [breweries-recruitment-task.zip](https://github.com/s0bieskii/junior-java-guide/blob/main/src/breweries-recruitment-task.zip)
 
 Tutaj feedback od firmy dt. zadania:
 ```

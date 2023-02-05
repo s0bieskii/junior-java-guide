@@ -3,7 +3,7 @@
 ## Zadanie
 
 Zadanie znalezione w internecie.
-Pliki potrzebne do zadania: [task-01.zip](https://github.com/s0bieskii/junior-java-guide/src/task-01.zip)
+Pliki potrzebne do zadania: [task-01.zip](https://github.com/s0bieskii/junior-java-guide/blob/main/src/task-01.zip)
 
 ```
 Java must be used to implement the task. The used database system can be chosen freely. The
