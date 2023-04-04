@@ -134,7 +134,7 @@ Im szybciej zaczniesz otaczać się językiem angielskim, tym lepiej dla przysz�
     - :heart: [JetBrains Adacemy](https://hyperskill.org/tracks?category=2) - to samo co za darmo z reflinka wyżej, ale jeśli nie zdążyłeś w 3-miesięczny okres próbny, to możesz wykupić subskrypcję. Płacisz za dostęp do całej platformy i wszystkich kursó, dlatego jeśli szybko będziesz przerabiał materiał, to cena końcowa nie wyjdzie taka zła.
     - :green_heart: [Java from Zero to First Job na Udemy](https://www.udemy.com/course/java-development-for-beginners-learnit/)
 
-### HTML & CSSI
+### HTML & CSS
 - **Darmowe**
     - :heart: [Kurs HTML & CSS Pasja Informatyki](https://www.youtube.com/watch?v=k2IydkL3EOs&list=PLa_qAIEJBI00FKOQegmfv8D2SXd6v3ABh)
     - :heart: [Kurs Bootstrap Pasja Informatyki](https://www.youtube.com/watch?v=Lvxy5GaArvo)
@@ -235,5 +235,4 @@ Poniższe filmy mogą pomóc w zrobieniu pierwszych kroków w świecie Linuxa.
 - :heart: [RabbitMQ Tutorial - Message Queues and Distributed Systems](https://www.youtube.com/watch?v=nFxjaVmFj5E)
 - :green_heart: [RabbitMQ for begginners](https://www.cloudamqp.com/blog/part1-rabbitmq-for-beginners-what-is-rabbitmq.html)
 - :blue_heart: [RabbitMQ in Depth - książka](https://github.com/mrbajaj/books/blob/master/RabbitMQ%20in%20Depth.pdf)
-- :heart: [RabbitMQ in Depth - książka](https://github.com/mrbajaj/books/blob/master/RabbitMQ%20in%20Depth.pdf)
 - :heart: [RabbitMQ Cookbook - książka](https://raw.githubusercontent.com/misguided-coder/bangalore-dell-Feb-2019/master/RabbitMQ%20Cookbook.pdf)
