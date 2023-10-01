@@ -2,10 +2,6 @@
 
 ## Contents
 - [Start](#słowo-na-start)
-- [Moja droga nauki](mystory.md)
-  - Ile czasu potrzeba żeby dostać pracę?
-  - Co mogłem zrobić lepiej?
-  - Jak się uczyć
 - [Roadmap](roadmap.md)
 - [Polecane materiały](roadmap.md)
     - Core
